@@ -7645,7 +7645,7 @@
                     className: "absolute inset-0 -top-[8%] h-[116%]",
                     style: w ? void 0 : { y: F },
                     children: (0, t.jsx)(s.default, {
-                      src: "/images/hero-banner.jpg",
+                      src: "/images/hero-banner.png",
                       alt: "",
                       fill: !0,
                       priority: !0,

@@ -962,7 +962,7 @@
       i = [
         "/images/pfp.png",
         "/images/pfp-coin.jpg",
-        "/images/hero-banner.jpg",
+        "/images/hero-banner.png",
         "/images/floor-spqr.jpg",
         "/models/canine-caesar.glb",
         "/models/golden-hound.glb",
@@ -977,7 +977,7 @@
       ],
       s = ["/models/rotunda.glb", "/models/canine-legion.glb"],
       o = [
-        "> booting vitalius_maximus.sys v1.0 ...",
+        "> booting dogeus_maximusa.sys v1.0 ...",
         "> mounting imperial filesystem ......... [ ok ]",
         "> minting the aureus ................... [ ok ]",
         "> burning liquidity ............... 100% 🔥",
@@ -1089,7 +1089,7 @@
                       (0, t.jsx)("p", {
                         className:
                           "mb-3 text-[10px] uppercase tracking-[0.35em] text-[#C9A96E]/45",
-                        children: "dogeus_maximus.sys v1.0",
+                        children: "dogeus_maximusa.sys v1.0",
                       }),
                       (0, t.jsx)("div", {
                         className:
