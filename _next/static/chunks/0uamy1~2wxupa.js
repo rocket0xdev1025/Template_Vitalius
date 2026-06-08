@@ -962,7 +962,7 @@
           size: e = 160,
           raised: a = !0,
           className: r = "",
-          title: n = "VITALIUS aquila",
+          title: n = "DOGEUS aquila",
         }) {
           let o = (0, s.useStableId)("aquila-gold"),
             l = e / 2,
@@ -1111,12 +1111,12 @@
     e.i(46513);
     var u = e.i(83577);
     let g = [
-        { src: "/images/hero-rock.jpg", alt: "Conqueror of Mountains" },
-        { src: "/images/doge-sakura.jpg", alt: "Path of the Warrior" },
-        { src: "/images/doge-colosseum.jpg", alt: "Emperor of Rome" },
-        { src: "/images/doge-painting.jpg", alt: "The Masterpiece" },
-        { src: "/images/doge-rest.jpg", alt: "After the Battle" },
-        { src: "/images/doge-ship.jpg", alt: "Emperor of Ethereum" },
+        { src: "/images/hero-rock.png", alt: "Conqueror of Mountains" },
+        { src: "/images/doge-sakura.png", alt: "Path of the Warrior" },
+        { src: "/images/doge-colosseum.png", alt: "Emperor of Rome" },
+        { src: "/images/doge-painting.png", alt: "The Masterpiece" },
+        { src: "/images/doge-rest.png", alt: "After the Battle" },
+        { src: "/images/doge-ship.png", alt: "Emperor of Ethereum" },
       ],
       h = [0.16, 1, 0.3, 1],
       x = {
@@ -1234,7 +1234,7 @@
               children: [
                 (0, t.jsx)(c.default, {
                   eyebrow: "Origines Imperii",
-                  title: "The Legend of VITALIUS",
+                  title: "The Legend of DOGEUS",
                   subtitle:
                     "From the ashes of the blockchain, an emperor was forged",
                 }),
@@ -1344,7 +1344,7 @@
                                     children: "n the age of digital empires,",
                                   }),
                                   " ",
-                                  "one visionary rose above the noise. Clad in imperial armor, bearing the wisdom of ancient Rome and the spirit of a new era, Vitalius Maximus emerged from the Forum of Ethereum.",
+                                  "one visionary rose above the noise. Clad in imperial armor, bearing the wisdom of ancient Rome and the spirit of a new era, Dogeus Maximusa emerged from the Forum of Ethereum.",
                                 ],
                               }),
                             ],
@@ -1365,7 +1365,7 @@
                                   "text-lg leading-relaxed [text-wrap:pretty] [font-feature-settings:'liga'_1,'dlig'_1] sm:text-xl lg:leading-[1.75]",
                                 style: { color: "rgba(245, 240, 232, 0.68)" },
                                 children: [
-                                  "Where others saw uncertainty, Vitalius saw destiny. Where others sought power, Vitalius sought progress. Ave Caesar",
+                                  "Where others saw uncertainty, Dogeus saw destiny. Where others sought power, Dogeus sought progress. Ave Caesar",
                                   " ",
                                   (0, t.jsx)("span", {
                                     className: "font-heading italic",
@@ -1403,7 +1403,7 @@
                                   (0, t.jsx)("span", {
                                     className:
                                       "font-heading text-base tracking-[0.3em] opacity-80 sm:text-lg",
-                                    children: "⚜ VITALIUS ⚜",
+                                    children: "⚜ DOGEUS ⚜",
                                   }),
                                   (0, t.jsx)(u.LaurelWreath, {
                                     size: 34,
@@ -1480,7 +1480,7 @@
                               (0, t.jsx)(i.motion.div, {
                                 style: { scale: e ? 1 : A },
                                 children: (0, t.jsx)(s.default, {
-                                  src: "/images/hero-rock.jpg",
+                                  src: "/images/hero-rock.png",
                                   alt: "Dogeus - The Imperial Doge",
                                   width: 600,
                                   height: 400,
@@ -1563,7 +1563,7 @@
                                   (0, t.jsx)("p", {
                                     className:
                                       "font-heading text-sm italic tracking-wider text-[#C9A96E]/85",
-                                    children: "Imperator Vitalius Maximus",
+                                    children: "Imperator Dogeus Maximusa",
                                   }),
                                   (0, t.jsx)("p", {
                                     className:
@@ -1972,7 +1972,7 @@
           title: "Join the Senate",
           description:
             "Discuss strategy, share memes, and rally with fellow citizens in our Telegram HQ.",
-          href: "https://t.me/vitaliusmaximus_Portal",
+          href: "https://t.me/DogeusMaximusa",
           accent: "#2563eb",
           accentGlow: "rgba(37,99,235,0.25)",
           borderColor: "rgba(37,99,235,0.35)",
@@ -1992,7 +1992,7 @@
           title: "Spread the Word",
           description:
             "Follow, repost, and let the world know: the emperor has arrived. Memes welcome.",
-          href: "https://x.com/vitaliusmaximus",
+          href: "https://x.com/DogeusMaximusa",
           accent: "#F5F0E8",
           accentGlow: "rgba(245,240,232,0.1)",
           borderColor: "rgba(245,240,232,0.15)",
@@ -2009,10 +2009,10 @@
           }),
         },
         {
-          title: "Buy $VITALIUS",
+          title: "Buy $DOGEUS",
           description:
             "Acquire your imperial tokens on Uniswap. The gates to the empire are always open.",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
           accent: "#C9A96E",
           accentGlow: "rgba(201,169,110,0.3)",
           borderColor: "rgba(201,169,110,0.4)",
@@ -2324,7 +2324,7 @@
                 className: "relative z-[1] mx-auto max-w-6xl",
                 children: [
                   (0, t.jsx)(u.default, {
-                    eyebrow: "VITALIUS · The Imperial Legion",
+                    eyebrow: "DOGEUS · The Imperial Legion",
                     title: "Join the Legion",
                     subtitle:
                       "The empire grows stronger with every soldier. Choose your path.",
@@ -2463,19 +2463,19 @@
       p = e.i(38406);
     let u = [
         {
-          question: "What is $VITALIUS?",
+          question: "What is $DOGEUS?",
           answer:
-            "The emperor of  Ethereum. $VITALIUS is a community-driven meme token inspired by ancient Rome and the internet's greatest doge. No VC funding, no insider allocation — just pure imperial meme energy.",
+            "The emperor of  Ethereum. $DOGEUS is a community-driven meme token inspired by ancient Rome and the internet's greatest doge. No VC funding, no insider allocation — just pure imperial meme energy.",
         },
         {
           question: "How do I buy?",
           answer:
-            "Get MetaMask or any Ethereum wallet, buy some ETH on a major exchange, then head to Uniswap (app.uniswap.org) and swap your ETH for $VITALIUS. Four steps to join the empire.",
+            "Get MetaMask or any Ethereum wallet, buy some ETH on a major exchange, then head to Uniswap (app.uniswap.org) and swap your ETH for $DOGEUS. Four steps to join the empire.",
         },
         {
-          question: "What makes $VITALIUS different?",
+          question: "What makes $DOGEUS different?",
           answer:
-            "We have an emperor. They have dogs. Choose wisely. $VITALIUS combines elite meme culture with a community-first ethos, Roman-tier aesthetics, and zero tolerance for rugs.",
+            "We have an emperor. They have dogs. Choose wisely. $DOGEUS combines elite meme culture with a community-first ethos, Roman-tier aesthetics, and zero tolerance for rugs.",
         },
         {
           question: "Wen moon?",
@@ -2483,9 +2483,9 @@
             "The emperor does not rush. The empire expands at its own pace. Rome wasn't built in a day, but when it was built, it ruled the known world. Patience, citizen.",
         },
         {
-          question: "What chain is $VITALIUS on?",
+          question: "What chain is $DOGEUS on?",
           answer:
-            "$VITALIUS is deployed on Ethereum (ERC-20). The emperor chose the most battle-tested chain for his empire. No bridges needed — just ETH and Uniswap.",
+            "$DOGEUS is deployed on Ethereum (ERC-20). The emperor chose the most battle-tested chain for his empire. No bridges needed — just ETH and Uniswap.",
         },
       ],
       g = [0.16, 1, 0.3, 1];
@@ -2834,11 +2834,11 @@
       p = e.i(59432),
       p = p,
       u = e.i(83577);
-    let g = "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+    let g = "0xcomingsoon",
       h = [
         {
           label: "Twitter / X",
-          href: "https://x.com/vitaliusmaximus",
+          href: "https://x.com/DogeusMaximusa",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -2850,7 +2850,7 @@
         },
         {
           label: "Telegram",
-          href: "https://t.me/vitaliusmaximus_Portal",
+          href: "https://t.me/DogeusMaximusa",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -2862,7 +2862,7 @@
         },
         {
           label: "Uniswap",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
           icon: (0, t.jsx)(d.ExternalLink, { className: "size-5" }),
         },
       ],
@@ -3059,7 +3059,7 @@
                       (0, t.jsx)("p", {
                         className:
                           "mt-3 font-heading text-[10px] tracking-[0.5em] uppercase text-[#C9A96E]/45",
-                        children: "Vitalius Maximus",
+                        children: "Dogeus Maximusa",
                       }),
                     ],
                   }),
@@ -3115,7 +3115,7 @@
                                 children: [
                                   (0, t.jsx)(p.default, {
                                     className: "text-[#C9A96E]",
-                                    children: "VITALIUS",
+                                    children: "DOGEUS",
                                   }),
                                   " ",
                                   (0, t.jsx)("span", {
@@ -3147,7 +3147,7 @@
                                 onClick: A,
                                 "aria-label": w
                                   ? "Contract address copied"
-                                  : "Copy Vitalius Maximus contract address",
+                                  : "Copy Dogeus Maximusa contract address",
                                 className: `group/ca relative flex min-h-[44px] flex-1 items-center gap-2 overflow-hidden rounded-lg border border-[#C9A96E]/14 bg-[rgba(10,5,16,0.55)] px-3 py-2.5 text-left backdrop-blur-[3px] transition-[border-color,box-shadow] duration-300 hover:border-[#C9A96E]/40 hover:shadow-[0_0_28px_rgba(201,169,110,0.16)] ${j}`,
                                 children: [
                                   (0, t.jsx)("span", {
@@ -3353,7 +3353,7 @@
                           (0, t.jsx)("span", {
                             className:
                               "font-heading text-[9px] tracking-[0.45em] text-[#C9A96E]/35 uppercase",
-                            children: "VITALIUS",
+                            children: "DOGEUS",
                           }),
                           (0, t.jsx)(s.motion.span, {
                             className:
@@ -3381,7 +3381,7 @@
                     children: [
                       (0, t.jsx)("p", {
                         className: "font-mono text-xs text-ivory/40",
-                        children: "© 2026 Vitalius Maximus. All rights reserved.",
+                        children: "© 2026 Dogeus Maximusa. All rights reserved.",
                       }),
                       (0, t.jsx)("p", {
                         className:
@@ -7238,7 +7238,7 @@
       a = e.i(57688),
       s = e.i(46932);
     let i =
-      "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0";
+      "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon";
     e.s([
       "UNISWAP_SWAP_URL",
       0,
@@ -7382,7 +7382,7 @@
       );
     }
     let b = [0.16, 1, 0.3, 1],
-      f = ["VITALIUS", "MAXIMUS"];
+      f = ["DOGEUS", "MAXIMUSA"];
     function y({ ch: e, delay: a, floatDelay: s }) {
       return (0, t.jsx)(i.motion.span, {
         initial: { y: "130%", opacity: 0, rotateX: -88, scale: 0.6 },
@@ -7762,7 +7762,7 @@
                   }),
                   (0, t.jsx)("h1", {
                     className: "sr-only",
-                    children: "DOGEUS MAXIMUS",
+                    children: "DOGEUS MAXIMUSA",
                   }),
                   (0, t.jsxs)("div", {
                     className: "relative",
@@ -7791,7 +7791,7 @@
                           background: "rgba(10,5,16,0.45)",
                           textShadow: "0 2px 12px rgba(0,0,0,0.8)",
                         },
-                        children: "$VITALIUS",
+                        children: "$DOGEUS",
                       }),
                       // (0, t.jsxs)("span", {
                       //   className:
@@ -7801,7 +7801,7 @@
                       //     boxShadow: "inset 0 1px 0 rgba(245,210,128,0.06)",
                       //     textShadow: "0 1px 8px rgba(0,0,0,0.7)",
                       //   },
-                      //   "aria-label": "Live $VITALIUS price",
+                      //   "aria-label": "Live $DOGEUS price",
                       //   children: [
                       //     (0, t.jsxs)("span", {
                       //       className: "relative flex h-1.5 w-1.5",
@@ -7840,7 +7840,7 @@
                         "font-heading text-lg tracking-wide text-ivory/90 sm:text-xl md:text-2xl",
                       style: { textShadow: "0 2px 16px rgba(0,0,0,0.9)" },
                       children: (0, t.jsx)(x, {
-                        text: "VITALIUS MAXIMUS",
+                        text: "DOGEUS MAXIMUSA",
                         speed: 70,
                         delay: 1200,
                         cursorColor: "#C9A96E",
@@ -7959,7 +7959,7 @@
                             "min-h-[44px] px-8 py-3.5 text-sm sm:text-base",
                         }),
                         (0, t.jsxs)(i.motion.a, {
-                          href: "https://t.me/vitaliusmaximus_Portal",
+                          href: "https://t.me/DogeusMaximusa",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           whileHover: { scale: 1.04 },
@@ -8182,12 +8182,12 @@
           number: 3,
           title: "Go to Uniswap",
           description:
-            "Head to app.uniswap.org and connect your wallet. Search for $VITALIUS or paste the contract address to find the token.",
+            "Head to app.uniswap.org and connect your wallet. Search for $DOGEUS or paste the contract address to find the token.",
           icon: x,
         },
         {
           number: 4,
-          title: "Buy $VITALIUS",
+          title: "Buy $DOGEUS",
           description:
             "Set the amount of ETH you want to swap, confirm the transaction, and welcome to the empire, citizen.",
           icon: b,
@@ -8275,7 +8275,7 @@
                     eyebrow: "How to Buy",
                     title: "Join the Empire",
                     subtitle:
-                      "Four simple steps to claim your place among the legions of $VITALIUS.",
+                      "Four simple steps to claim your place among the legions of $DOGEUS.",
                   }),
                   (0, t.jsxs)(s.motion.ol, {
                     ref: g,
@@ -8553,7 +8553,7 @@
                         children: "The path is laid — the gates await",
                       }),
                       (0, t.jsx)(p.default, {
-                        label: "Buy $VITALIUS Now",
+                        label: "Buy $DOGEUS Now",
                         className: "px-8 py-3.5 text-base",
                       }),
                     ],
@@ -8883,7 +8883,7 @@
     let m = [
         {
           label: "Telegram",
-          href: "https://t.me/vitaliusmaximus_Portal",
+          href: "https://t.me/DogeusMaximusa",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -8895,7 +8895,7 @@
         },
         {
           label: "Twitter / X",
-          href: "https://x.com/vitaliusmaximus",
+          href: "https://x.com/DogeusMaximusa",
           icon: (0, t.jsx)("svg", {
             viewBox: "0 0 24 24",
             className: "size-5 fill-current",
@@ -8907,7 +8907,7 @@
         },
         {
           label: "Uniswap",
-          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+          href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
           icon: (0, t.jsx)(s.ExternalLink, { className: "size-5" }),
         },
       ],
@@ -9121,7 +9121,7 @@
       y = e.i(61476),
       v = e.i(31596),
       j = e.i(75379);
-    let w = "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+    let w = "0xcomingsoon",
       N = [0.16, 1, 0.3, 1],
       k = {
         hidden: {},
@@ -9920,7 +9920,7 @@
                                 "0 20px 50px -18px rgba(0,0,0,0.55), inset 0 1px 0 rgba(245,210,128,0.06)",
                             },
                             children: (0, t.jsx)("iframe", {
-                              src: "https://dexscreener.com/ethereum/0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0?embed=1&theme=dark&info=0",
+                              src: "https://dexscreener.com/ethereum/0xcomingsoon?embed=1&theme=dark&info=0",
                               title: "$DOGEUS DEX Chart",
                               className:
                                 "h-[480px] w-full border-0 sm:h-[560px] lg:h-[640px]",
@@ -9931,7 +9931,7 @@
                           (0, t.jsx)("div", {
                             className: "mt-3 text-center",
                             children: (0, t.jsxs)("a", {
-                              href: "https://dexscreener.com/ethereum/0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -9984,7 +9984,7 @@
         let e = (0, i.useReducedMotion)(),
           d = [
             { text: "$DOGEUS", highlight: !0, emoji: "👑" },
-            { text: "VITALIUS MAXIMUS", emoji: "🐕" },
+            { text: "DOGEUS MAXIMUSA", emoji: "🐕" },
             { text: "AVE CAESAR", emoji: "🏛️" },
             { text: "EMPEROR OF MEME COINS", emoji: "⚔️" },
             { text: "0% TAX", emoji: "💎" },
@@ -9992,7 +9992,7 @@
             { text: "CONTRACT RENOUNCED", emoji: "📜" },
             { text: "TO VALHALLA", emoji: "⚡" },
             { text: "DIAMOND HANDS", emoji: "💪" },
-            { text: "VITALIUS", emoji: "🛡️" },
+            { text: "DOGEUS", emoji: "🛡️" },
           ],
           c = d.map((e) => e.text).join(" · "),
           p = (0, a.useRef)(null),
@@ -10016,7 +10016,7 @@
                           ? "relative inline-block font-heading text-[11px] font-bold tracking-[0.2em] uppercase transition-[text-shadow,color,filter] duration-300 group-hover/ticker:[filter:drop-shadow(0_0_18px_rgba(245,210,128,0.7))] sm:text-sm sm:tracking-[0.3em]"
                           : "relative inline-block font-heading text-[11px] font-bold tracking-[0.2em] uppercase transition-[text-shadow,color] duration-300 group-hover/ticker:[text-shadow:0_0_13px_rgba(201,169,110,0.55)] sm:text-sm sm:tracking-[0.3em]",
                         style: a.highlight ? m : { color: "#C9A96E" },
-                        children: a.highlight ? "$VITALIUS" : a.text,
+                        children: a.highlight ? "$DOGEUS" : a.text,
                       }),
                       (0, t.jsxs)("span", {
                         className:
@@ -10676,7 +10676,7 @@
               label: "Total Supply",
               displayValue: "1,000,000,000",
               icon: "📜",
-              description: "One billion $VITALIUS",
+              description: "One billion $DOGEUS",
               counter: { kind: "count", value: 1e9, decimals: 0 },
             },
             {

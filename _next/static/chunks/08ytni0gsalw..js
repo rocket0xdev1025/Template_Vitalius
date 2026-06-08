@@ -203,7 +203,7 @@
             W = (0, a.useCallback)(async () => {
               try {
                 await navigator.clipboard.writeText(
-                  "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0"
+                  "0xcomingsoon"
                 ),
                   _(!0),
                   setTimeout(() => _(!1), 2e3);
@@ -306,7 +306,7 @@
                               backgroundImage:
                                 "linear-gradient(95deg, #f5d280 0%, #C9A96E 45%, #f5d280 100%)",
                             },
-                            children: "VITALIUS",
+                            children: "DOGEUS",
                           }),
                         ],
                       }),
@@ -425,7 +425,7 @@
                           //     (0, t.jsx)("span", {
                           //       className:
                           //         "flex items-center bg-[rgba(201,169,110,0.08)] px-2.5 font-mono text-[9px] font-semibold uppercase tracking-[0.22em] text-[#C9A96E]/70",
-                          //       children: "$VITALIUS",
+                          //       children: "$DOGEUS",
                           //     }),
                           //     (0, t.jsxs)("span", {
                           //       className:
@@ -522,7 +522,7 @@
                                 className:
                                   "font-mono text-[11px] font-semibold tabular-nums text-[#f5d280]/90",
                                 children:
-                                  "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+                                  "0xcomingsoon",
                               }),
                               (0, t.jsx)(d.AnimatePresence, {
                                 mode: "wait",
@@ -571,7 +571,7 @@
                             ],
                           }),
                           (0, t.jsxs)(l.motion.a, {
-                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             variants: {
@@ -883,7 +883,7 @@
                                     className:
                                       "font-mono text-xs tabular-nums text-[#f5d280]/90",
                                     children:
-                                      "0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+                                      "0xcomingsoon",
                                   }),
                                   S
                                     ? (0, t.jsx)(o.Check, {
@@ -897,7 +897,7 @@
                                 ],
                               }),
                               (0, t.jsxs)(l.motion.a, {
-                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x0ce455aee2cd337c8404ca8f30ba3253ce86fed0",
+                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 variants: {
@@ -942,22 +942,22 @@
     var t = e.i(43476),
       a = e.i(71645);
     let n = [
-        "#     # ### #######    #    #      ### #     #  #####",
-        "#     #  #     #      # #   #       #  #     # #     #",
-        "#     #  #     #     #   #  #       #  #     # #",
-        "#     #  #     #    #     # #       #  #     #  #####",
-        " #   #   #     #    ####### #       #  #     #       #",
-        "  # #    #     #    #     # #       #  #     #       #",
-        "   #    ###    #    #     # ###### ###  #####   #####",
+      "#######  #####   ####### ####### #     #  ##### ",
+      "#     # #     #  #       #       #     # #     #",
+      "#     # #     #  #       #       #     # #",
+      "#     # #     #  #  #### #####   #     #  #####",
+      "#     # #     #  #     # #       #     #       #",
+      "#     # #     #  #     # #       #     # #     #",
+      "#######  #####   ####### #######  #####   #####",
       ],
       r = [
-        "#     #    #    #     # ### #     # #     #  #####",
-        "##   ##   # #    #   #   #  ##   ## #     # #     #",
-        "# # # #  #   #    # #    #  # # # # #     # #",
-        "#  #  # #     #    #     #  #  #  # #     #  #####",
-        "#     # #######   # #    #  #     # #     #       #",
-        "#     # #     #  #   #   #  #     # #     # #     #",
-        "#     # #     # #     # ### #     #  #####   #####",
+        "#     #    #    #     # ### #     # #     #  #####     #",
+        "##   ##   # #    #   #   #  ##   ## #     # #     #   # #",
+        "# # # #  #   #    # #    #  # # # # #     # #        #   #",
+        "#  #  # #     #    #     #  #  #  # #     #  #####  #######",
+        "#     # #######   # #    #  #     # #     #       # #     #",
+        "#     # #     #  #   #   #  #     # #     # #     # #     #",
+        "#     # #     # #     # ### #     #  #####   #####  #     #",
       ],
       i = [
         "/images/pfp.png",
@@ -1089,7 +1089,7 @@
                       (0, t.jsx)("p", {
                         className:
                           "mb-3 text-[10px] uppercase tracking-[0.35em] text-[#C9A96E]/45",
-                        children: "vitalius_maximus.sys v1.0",
+                        children: "dogeus_maximus.sys v1.0",
                       }),
                       (0, t.jsx)("div", {
                         className:
