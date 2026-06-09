@@ -203,7 +203,7 @@
             W = (0, a.useCallback)(async () => {
               try {
                 await navigator.clipboard.writeText(
-                  "0xcomingsoon"
+                  "0xd9713db550525e1f8d6b4b27b246b028793409c0"
                 ),
                   _(!0),
                   setTimeout(() => _(!1), 2e3);
@@ -522,7 +522,7 @@
                                 className:
                                   "font-mono text-[11px] font-semibold tabular-nums text-[#f5d280]/90",
                                 children:
-                                  "0xcomingsoon",
+                                  "0xd9713db550525e1f8d6b4b27b246b028793409c0",
                               }),
                               (0, t.jsx)(d.AnimatePresence, {
                                 mode: "wait",
@@ -571,7 +571,7 @@
                             ],
                           }),
                           (0, t.jsxs)(l.motion.a, {
-                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xd9713db550525e1f8d6b4b27b246b028793409c0",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             variants: {
@@ -883,7 +883,7 @@
                                     className:
                                       "font-mono text-xs tabular-nums text-[#f5d280]/90",
                                     children:
-                                      "0xcomingsoon",
+                                      "0xd9713db550525e1f8d6b4b27b246b028793409c0",
                                   }),
                                   S
                                     ? (0, t.jsx)(o.Check, {
@@ -897,7 +897,7 @@
                                 ],
                               }),
                               (0, t.jsxs)(l.motion.a, {
-                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
+                                href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xd9713db550525e1f8d6b4b27b246b028793409c0",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 variants: {

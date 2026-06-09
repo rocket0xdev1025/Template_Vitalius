@@ -8942,7 +8942,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   (t) => {
     "use strict";
     var e = t.i(71645);
-    let i = "0xcomingsoon",
+    let i = "0xd9713db550525e1f8d6b4b27b246b028793409c0",
       n = {
         price: 0.00276,
         marketCap: 275e4,
